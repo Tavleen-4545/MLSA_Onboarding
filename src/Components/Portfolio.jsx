@@ -45,7 +45,7 @@ const projectList = [
   {
     title: "My Resume",
     description:
-      "",
+      " Check out my academic and project description below!",
     url: "https://drive.google.com/file/d/1RcmdE0EFjZ2dRlrb157HpmHvJXf5jDHs/view?usp=sharing",
   },
  

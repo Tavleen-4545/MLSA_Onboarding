@@ -29,7 +29,7 @@ const siteProps = {
   email: "tavleenkaur1211@gmail.com",
   gitHub: "Tavleen-4545",
   instagram: "tavleen_45",
-  linkedIn: "TavleenKaur",
+  linkedIn: "www.linkedin.com/in/tavleen-kaur-90b623261",
   medium: "",
   twitter: "",
   youTube: "",
