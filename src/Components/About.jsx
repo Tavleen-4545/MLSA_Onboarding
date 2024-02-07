@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/susan-wilkinson-lMrH5Mh-ZUO-unsplash.jpg";
+import image from "../images/susan-wilkinson-lMrH5Mh-ZU0-unsplash.jpg";
 
 const imageAltText = "pink abstract background";
 
