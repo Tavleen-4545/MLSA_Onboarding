@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/lum3n--RBuQ2PK_LB-unsplash.jpeg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,29 +31,24 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Child Rights Project",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Created a children's gamified platform to make them aware about their legal rights and how to use them.",
+    url: "https://youtu.be/M9W_IfroEQ4",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Blockchain Project",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A simple crosschain tranfer project to enable inheritence of digital wealth to beneficiaries.",
+    url: "https://youtu.be/Uo6-r6PbOe8",
   },
   {
-    title: "My Resume Site",
+    title: "My Resume",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "",
+    url: "https://drive.google.com/file/d/1RcmdE0EFjZ2dRlrb157HpmHvJXf5jDHs/view?usp=sharing",
   },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
-  },
+ 
 ];
 
 const Portfolio = () => {
